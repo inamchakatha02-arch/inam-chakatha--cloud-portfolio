@@ -47,3 +47,7 @@ Aspiring Cloud Administrator currently completing a learnership program with han
 ## 📫 Contact
 Email: inamchakatha02@gmail.com  
 Phone: 060 898 7750
+/ec2-project
+/s3-project
+/azure-vm
+/linux-basics
