@@ -1,15 +1,13 @@
-# inam-chakatha--cloud-portfolio
-Cloud Administrator Portfolio showcasing AWS, Azure, and Linux projects.
 # ☁️ Cloud Administrator Portfolio – Inam Chaktha
 
-Aspiring Cloud Administrator currently completing a learnership program with hands-on experience in AWS, Azure, and Linux system administration.
+Aspiring Cloud Administrator currently completing a learnership program with hands-on experience in AWS, Microsoft Azure, and Linux system administration.
 
 ---
 
 ## 🔧 Skills
 - AWS (EC2, S3, IAM)
 - Microsoft Azure (Virtual Machines)
-- Linux Administration
+- Linux (Ubuntu)
 - Networking Basics
 - Cloud Security Fundamentals
 
@@ -17,35 +15,35 @@ Aspiring Cloud Administrator currently completing a learnership program with han
 
 ## 🚀 Projects
 
-### 1. AWS EC2 Web Server
+### AWS EC2 Web Server
 - Deployed a Linux server on AWS EC2
-- Configured Apache web server
-- Managed security groups and SSH access
+- Installed Apache web server
+- Configured security groups
 - Hosted a live website
 
 ---
 
-### 2. AWS S3 Storage & Security
-- Created and configured S3 buckets
-- Managed access permissions using IAM
-- Implemented secure storage practices
+### AWS S3 Storage & Security
+- Created S3 buckets
+- Managed IAM permissions
+- Secured cloud storage
 
 ---
 
-### 3. Azure Virtual Machine Deployment
-- Created and configured a VM in Azure
-- Managed networking and access
-- Installed and configured services
+### Azure Virtual Machine
+- Deployed VM in Azure
+- Configured networking
+- Installed server services
 
 ---
 
-### 4. Linux Administration
-- User and permission management
-- File system navigation
+### Linux Administration
+- User management
+- File permissions
 - Package installation
 
 ---
 
 ## 📫 Contact
-- Email: inamchakatha02@gmail.com
-- LinkedIn: (add your link here)
+Email: inamchakatha02@gmail.com  
+Phone: 060 898 7750
